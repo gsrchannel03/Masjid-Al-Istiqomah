@@ -23,7 +23,6 @@
 </head>
 <body>
 
-  <h1>Masjid Al-Hidayah</h1>
   <p>Selamat datang di website resmi masjid kami</p>
 
 </body>
