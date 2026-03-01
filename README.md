@@ -1,5 +1,5 @@
 # Masjid-Al-Istiqomah
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -8,7 +8,7 @@
   <p>Jadwal Sholat dan Informasi Kegiatan</p>
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Website Masjid</title>
