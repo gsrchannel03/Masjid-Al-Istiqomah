@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-  <h1>Selamat Datang di Website Masjid Al-Hidayah</h1>
+  <h1>Selamat Datang di Website Masjid-Al-Istiqomah </h1>
   <p>Jadwal Sholat dan Informasi Kegiatan</p>
 </body>
 </html>
